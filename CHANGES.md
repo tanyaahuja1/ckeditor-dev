@@ -1,6 +1,12 @@
 ﻿CKEditor 4 Changelog
 ====================
 
+## CKEditor 4.11
+
+New Features:
+
+* [#1815](https://github.com/ckeditor/ckeditor-dev/issues/1815): [Autolink](https://ckeditor.com/cke4/addon/autolink) plugin supports typing link completion.
+
 ## CKEditor 4.10
 
 New Features:
