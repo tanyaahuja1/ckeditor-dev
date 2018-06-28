@@ -1,6 +1,12 @@
 ﻿CKEditor 4 Changelog
 ====================
 
+## CKEditor 4.10.1
+
+Fixed Issues:
+
+* [#2114](https://github.com/ckeditor/ckeditor-dev/issues/2114): [Autocomplete](https://ckeditor.com/cke4/addon/autocomplete) cannot be initialized before [`instanceReady`](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_editor.html#event-instanceReady).
+
 ## CKEditor 4.10
 
 New Features:
